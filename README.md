@@ -4,7 +4,7 @@
 # Kelvin Kemboi  
 
 <img 
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=6AA6FF&center=true&vCenter=true&width=900&lines=Computer+Science+student+at+Colgate+University.;Full-stack+and+mobile+developer.;Interested+in+distributed+systems+and+algorithmic+trading.;Always+learning.+Always+building."
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=6AA6FF&center=true&vCenter=true&width=900&lines=Computer+Science+Student+@+Colgate+University;Full-Stack+Developer;Interested+in+Distributed+Systems+and+Algorithmic+Trading;Always+learning.+Always+building."
 />
 
 </div>
@@ -15,7 +15,7 @@
 
 - Computer Science student at **Colgate University**
 - Full-stack and mobile developer with experience building real applications
-- Interested in **distributed systems, scalable backend systems, and algorithmic trading**
+- Interested in **distributed systems and scalable backend systems**
 - Built production-ready projects including finance tools and marketplaces
 - Passionate about **clean architecture, problem solving, and high-performance software**
 
@@ -112,7 +112,7 @@
 
 ## 📈 GitHub Stats
 
-![Kelvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Kelvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=KelvinKemboi&show_icons=true&theme=transparent)
 
 ---
 
