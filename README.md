@@ -14,7 +14,7 @@
 # 👨‍💻 About Me
 
 - Computer Science student at **Colgate University**
-- Full-stack and mobile developer with experience building real applications
+- Experienced in building Full-stack and mobile applications
 - Interested in **distributed systems and scalable backend systems**
 - Built production-ready projects including finance tools and marketplaces
 - Passionate about **clean architecture, problem solving, and high-performance software**
