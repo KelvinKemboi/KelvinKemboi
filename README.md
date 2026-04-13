@@ -4,7 +4,7 @@
 # Kelvin Kemboi  
 
 <img 
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=6AA6FF&center=true&vCenter=true&width=900&lines=Computer+Science+Student+@+Colgate+University;Full-Stack+Developer;Interested+in+Distributed+Systems+and+Algorithmic+Trading;Always+learning.+Always+building."
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=6AA6FF&center=true&vCenter=true&width=900&lines=Computer+Science+Student+@+Colgate+University;Developer;Interested+in+Distributed+Systems+and+Machine+Learning;Always+learning.+Always+building."
 />
 
 </div>
@@ -15,8 +15,8 @@
 
 - Computer Science student at **Colgate University**
 - Experienced in building Full-stack and mobile applications
-- Interested in **distributed systems and scalable backend systems**
-- Built production-ready projects including finance tools and marketplaces
+- Interested in **distributed systems, scalable backend systems & Machine Learning**
+- Built projects including finance tools and marketplaces
 - Passionate about **clean architecture, problem solving, and high-performance software**
 
 ---
