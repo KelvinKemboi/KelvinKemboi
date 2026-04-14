@@ -34,8 +34,8 @@
 <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML-239120?logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white" />
 
 </td>
 </tr>
