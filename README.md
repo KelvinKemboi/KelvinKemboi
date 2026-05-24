@@ -4,7 +4,7 @@
 # Kelvin Kemboi  
 
 <img 
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=6AA6FF&center=true&vCenter=true&width=1000&lines=Computer+Science+Student+@+Colgate+University;Systems+%26+Infrastructure+Engineering+Enthusiast;Backend+Developer+%7C+C%2B%2B+%7C+Networking+%7C+Distributed+Systems;Interested+in+Machine+Learning+%26+Computational+Statistics;Always+learning.+Always+building."
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=6AA6FF&center=true&vCenter=true&width=1000&lines=Systems+%26+Infrastructure+Engineering+Enthusiast;Backend+Developer+%7C+C%2B%2B+%7C+Networking+%7C+Distributed+Systems;Exploring+Computational+Statistics;Always+learning.+Always+building."
 />
 
 </div>
