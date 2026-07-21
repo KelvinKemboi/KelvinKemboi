@@ -13,7 +13,6 @@
 
 # About Me
 
-- Computer Science student at **Colgate University**
 - Interested in **Systems Programming, Infrastructure Engineering, Backend Systems & Distributed Systems**
 - Exploring **Machine Learning, Computational Statistics, and performance-oriented software**
 - Passionate about **building scalable systems, networking software, telemetry systems, and clean architectures**
